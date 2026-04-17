@@ -1,4 +1,4 @@
-# IFTM — Programação Web Servidor (PWS)
+# IFTM — Projeto Website Estático (PWS)
 
 Repositório organizado com os projetos e exercícios do curso.
 
